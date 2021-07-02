@@ -27,8 +27,6 @@ https://sfbay.craigslist.org/nby/apa/d/san-rafael-ignacio-hill-apts-2x2-pre/7344
 Alvin rate 1/8.
 
 
-| Command | Description |
-| --- | --- |
 | Name | Rent/month | Deposit | Available date | Link |
 | --- | --- | --- | --- | --- |
 | posada west apartments | $2,965 | 1,000 |  | https://www.zillow.com/homedetails/235-Posada-Del-Sol-575364384-Novato-CA-94949/2094917212_zpid/ |
