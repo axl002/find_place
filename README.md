@@ -17,11 +17,15 @@ https://sfbay.craigslist.org/nby/apa/d/san-rafael-coming-soon-bdr-san-rafael/733
 I rate 4/8.
 
 
-$3850 home, unknown security deposite, has laundry, has yard
+$3850 home, unknown security deposit, has laundry, has yard
 https://sfbay.craigslist.org/nby/apa/d/novato-gorgeous-spacious-bedroom-home/7341484115.html
 I rate 6/8.
 
 
-$2800 apartment, unknown security deposite, no laundry
+$2800 apartment, unknown security deposit, no laundry
 https://sfbay.craigslist.org/nby/apa/d/san-rafael-ignacio-hill-apts-2x2-pre/7344786686.html
 I rate 1/8.
+
+$3025 apartment, unknown security deposit, has laundry
+https://sfbay.craigslist.org/nby/apa/d/novato-super-clean-modern-quiet-2br/7341589963.html
+I rate 7/8
