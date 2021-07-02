@@ -14,14 +14,14 @@ I rate 3/8.
 
 $3800 condo, unknown security deposit, has laundry, already occupied??
 https://sfbay.craigslist.org/nby/apa/d/san-rafael-coming-soon-bdr-san-rafael/7333236118.html
-I rate 4/8
+I rate 4/8.
 
 
-$38500 home, unknown security deposite, has laundry, has yard
+$3850 home, unknown security deposite, has laundry, has yard
 https://sfbay.craigslist.org/nby/apa/d/novato-gorgeous-spacious-bedroom-home/7341484115.html
-I rate 6/8
+I rate 6/8.
 
 
 $2800 apartment, unknown security deposite, no laundry
 https://sfbay.craigslist.org/nby/apa/d/san-rafael-ignacio-hill-apts-2x2-pre/7344786686.html
-I rate 1/8
+I rate 1/8.
