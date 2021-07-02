@@ -31,9 +31,9 @@ $3025 apartment, unknown security deposit, has laundry
 https://sfbay.craigslist.org/nby/apa/d/novato-super-clean-modern-quiet-2br/7341589963.html
 Alvin rate 7/8
 
-| Name | Rent/month | Deposit | Available date | Link | Robin Rate | Alvin Rate | 
+| Name | Rent/month | Deposit | Available date | Link | R Rate | A Rate | 
 | --- | --- | --- | --- | --- | --- | --- |
-| posada west apartments | $2,965 | $1,000 |  NA | https://www.zillow.com/homedetails/235-Posada-Del-Sol-575364384-Novato-CA-94949/2094917212_zpid/ |
-| Crooked Oak | $3,115 | $800 | 8/7/21 | https://www.zillow.com/homedetails/130-Cielo-Ln-135-303-Novato-CA-94949/2070082432_zpid/ |
+| posada west apartments | $2,965 | $1,000 |  NA | https://www.zillow.com/homedetails/235-Posada-Del-Sol-575364384-Novato-CA-94949/2094917212_zpid/ | | 6/8
+| Crooked Oak | $3,115 | $800 | 8/7/21 | https://www.zillow.com/homedetails/130-Cielo-Ln-135-303-Novato-CA-94949/2070082432_zpid/ | | 0/8 I lived there before stole my deposit
 | Bridgecreek novato - Fieldstone | $3,282 | $500 | 8/7/21 |https://www.bridgecreekapartments.net/floor-plans.aspx |
 | Bridgecreek novato - Verissimo | $3,500 |  $500 | 7/24/21 |https://www.bridgecreekapartments.net/floor-plans.aspx |
