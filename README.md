@@ -27,9 +27,9 @@ https://sfbay.craigslist.org/nby/apa/d/san-rafael-ignacio-hill-apts-2x2-pre/7344
 Alvin rate 1/8.
 
 
-| Name | Rent/month | Deposit | Available date | Link |
-| --- | --- | --- | --- | --- |
-| posada west apartments | $2,965 | 1,000 |   | https://www.zillow.com/homedetails/235-Posada-Del-Sol-575364384-Novato-CA-94949/2094917212_zpid/ |
-| Crooked Oak | $3,115 | $800 | https://www.zillow.com/homedetails/130-Cielo-Ln-135-303-Novato-CA-94949/2070082432_zpid/ | 
-| Bridgecreek novato - Fieldstone | $3,282 | $500 | 8/7/21 |https://www.bridgecreekapartments.net/floor-plans.aspx |
-| Bridgecreek novato - Verissimo | $3,500 |  $500 | 7/24/21 |https://www.bridgecreekapartments.net/floor-plans.aspx |
+| Name | Rent/month | Deposit | Available date | Link | Robin Rate | Alvin Rate | 
+| --- | --- | --- | --- | --- | --- |
+| posada west apartments | $2,965 | $1,000 |  NA | https://www.zillow.com/homedetails/235-Posada-Del-Sol-575364384-Novato-CA-94949/2094917212_zpid/ | | |
+| Crooked Oak | $3,115 | $800 | 8/7/21 | https://www.zillow.com/homedetails/130-Cielo-Ln-135-303-Novato-CA-94949/2070082432_zpid/ | | |
+| Bridgecreek novato - Fieldstone | $3,282 | $500 | 8/7/21 |https://www.bridgecreekapartments.net/floor-plans.aspx | | |
+| Bridgecreek novato - Verissimo | $3,500 |  $500 | 7/24/21 |https://www.bridgecreekapartments.net/floor-plans.aspx | | |
