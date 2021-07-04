@@ -3,33 +3,33 @@
 
 $3620 townhouse, last month rent + $3000 deposit, has laundry, must rent for year
 https://sfbay.craigslist.org/nby/apa/d/san-rafael-quiet-garden-townhouse-br-25/7343018740.html
-A rate 6/8. 
+A rate 6/8. R rate 3/8 (Expensive for us two to rent a 3b2.5b)
 
 
 $3650 home, unkonwn security deposit, no laundry???, must rent for year, has yard
 https://sfbay.craigslist.org/nby/apa/d/san-rafael-new-listingterra-linda3br/7344741309.html
-A rate 3/8.
+A rate 3/8. R rate 0/8 (post has been deleted)
 
 
 
 $3800 condo, unknown security deposit, has laundry, already occupied??
 https://sfbay.craigslist.org/nby/apa/d/san-rafael-coming-soon-bdr-san-rafael/7333236118.html
-A rate 4/8.
+A rate 4/8. R rate 3/8 (Expensive for us two to rent a 3b2.5b)
 
 
 $3850 home, unknown security deposit, has laundry, has yard
 https://sfbay.craigslist.org/nby/apa/d/novato-gorgeous-spacious-bedroom-home/7341484115.html
-A rate 6/8.
+A rate 6/8. R rate 0/8 (Post has expired)
 
 
 $2800 apartment, unknown security deposit, no laundry
 https://sfbay.craigslist.org/nby/apa/d/san-rafael-ignacio-hill-apts-2x2-pre/7344786686.html
-A rate 1/8.
+A rate 1/8. R 1/8.
 
 
 $3025 apartment, unknown security deposit, has laundry
 https://sfbay.craigslist.org/nby/apa/d/novato-super-clean-modern-quiet-2br/7341589963.html
-A rate 7/8
+A rate 7/8. R rate 6/8 
 
 | Name | Rent/month | Deposit | Available date | Link | R Rate | A Rate | 
 | --- | --- | --- | --- | --- | --- | --- |
