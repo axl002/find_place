@@ -37,3 +37,9 @@ A rate 7/8. R rate 6/8
 | Crooked Oak | $3,115 | $800 | 8/7/21 | https://www.zillow.com/homedetails/130-Cielo-Ln-135-303-Novato-CA-94949/2070082432_zpid/ | | 0/8 I lived there before stole my deposit
 | Bridgecreek novato - Fieldstone | $3,282 | $500 | 8/7/21 |https://www.bridgecreekapartments.net/floor-plans.aspx |
 | Bridgecreek novato - Verissimo | $3,500 |  $500 | 7/24/21 |https://www.bridgecreekapartments.net/floor-plans.aspx |
+
+
+$2800 apartment, unkonwn security deposit, has laundry,
+https://www.zillow.com/homedetails/749-Via-Casitas-Greenbrae-CA-94904/19251497_zpid/
+R 6/8
+
