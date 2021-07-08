@@ -11,7 +11,6 @@ https://sfbay.craigslist.org/nby/apa/d/san-rafael-new-listingterra-linda3br/7344
 A rate 3/8. R rate 0/8 (post has been deleted)
 
 
-
 $3800 condo, unknown security deposit, has laundry, already occupied??
 https://sfbay.craigslist.org/nby/apa/d/san-rafael-coming-soon-bdr-san-rafael/7333236118.html
 A rate 4/8. R rate 3/8 (Expensive for us two to rent a 3b2.5b)
@@ -39,7 +38,13 @@ A rate 7/8. R rate 6/8
 | Bridgecreek novato - Verissimo | $3,500 |  $500 | 7/24/21 |https://www.bridgecreekapartments.net/floor-plans.aspx |
 
 
-$2800 apartment, unkonwn security deposit, has laundry,
+$2800 apartment, unknown security deposit, has laundry,
 https://www.zillow.com/homedetails/749-Via-Casitas-Greenbrae-CA-94904/19251497_zpid/
 R 6/8
 
+$3314 apartment, unknown security deposit, has laundry,
+https://www.zillow.com/b/view-at-marin-san-rafael-ca-5XjPjv/#unit-2070083166
+R 5/8
+
+$2,821?, unknown security deposit
+https://sfbay.craigslist.org/nby/apa/d/san-rafael-bdrm-bath-bay-view-coming-up/7347281126.html
